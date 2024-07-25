@@ -5,5 +5,5 @@
  */
 
 var countPalindromePaths = function(parent, s) {
-
+    
 };
